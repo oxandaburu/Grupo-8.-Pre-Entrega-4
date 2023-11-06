@@ -3,7 +3,7 @@
 grupo 8:
 
 
-*Gabriela Oxandaburu
+* Gabriela Oxandaburu
 * Aldana Mañaricua
 * Clara Sánchez
 * Daniela Araujo
