@@ -10,7 +10,7 @@ grupo 8:
 
 # Objetivos
 
-El objetivo principal es agrupar países en función de la cantidad de muertes y la población con vacunación total, permitiendo así un análisis para ver si hay o no una correlaciónentre nuevas muertes y poblacion vacunada. 
+El objetivo principal es agrupar países en función de la cantidad de muertes y la población con vacunación total, permitiendo así un análisis para ver si hay o no una correlación entre nuevas muertes y poblacion vacunada. 
 
 # Introducción:
 En este estudio se aplicará el método K-Means, un algoritmo de aprendizaje no supervisado, a un conjunto de datos que aborda la población, defunciones y las vacunaciones en diferentes países
