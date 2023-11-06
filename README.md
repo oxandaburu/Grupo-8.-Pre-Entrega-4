@@ -1,6 +1,8 @@
 
 # Aprendizaje No Supervisado
 grupo 8:
+
+
 *Gabriela Oxandaburu
 * Aldana Mañaricua
 * Clara Sánchez
